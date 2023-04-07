@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['peaceful-ocean-18287.herokuapp.com']
+ALLOWED_HOSTS = ['recipe-app-2023.herokuapp.com']
 
 
 # Application definition
